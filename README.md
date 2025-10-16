@@ -12,25 +12,7 @@
 ## 🌐 My Social Links :
 <p align="left">
  
-  <a href="https://instagram.com/subho_77_ind/"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="social-icon"
-     data-tooltip="Instagram"
-     style="
-       display: inline-flex;
-       justify-content: center;
-       align-items: center;
-       width: 70px;
-       height: 70px;
-       border-radius: 50%;
-       border: 3px solid white;
-       box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-       transition: all 0.3s ease;
-       background: white;
-     "
-     onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 25px rgba(255, 255, 255, 0.9)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(255, 255, 255, 0.6)'">
+  <a href="https://instagram.com/subho_77_ind/"   
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
          alt="Instagram"
          style="width: 70px; height: 70px; border-radius: 50%;">
