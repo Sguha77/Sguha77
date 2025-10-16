@@ -16,21 +16,9 @@
          alt="Instagram" 
          width="70" 
          height="70" 
-         style="
-       display: inline-flex;
-       justify-content: center;
-       align-items: center;
-       width: 70px;
-       height: 70px;
-       border-radius: 50%;
-       border: 3px solid white;
-       box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-       transition: all 0.3s ease;
-       background: white;
-     "
-		">
+         style="border-radius:50%; margin: 10px;">
   </a>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subhankar-07-guha/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
          alt="LinkedIn" 
@@ -38,16 +26,16 @@
          height="70" 
          style="border-radius:50%; margin: 10px;">
   </a>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sguha77/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
          alt="GitHub" 
-         width="70" 
-         height="70" 
-         style="background:ffffff; border-radius:50%; padding:15px; margin:10px;">
+         width="40" 
+         height="40" 
+         style="background:white; border-radius:50%; padding:15px; margin:10px;">
   </a>
-	&nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 
