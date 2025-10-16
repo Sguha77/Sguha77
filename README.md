@@ -99,7 +99,7 @@
 
 <div align="center">
 	
-![](https://nirzak-streak-stats.vercel.app/?user=Sguha77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com)/?user=Sguha77&theme=dark&hide_border=false)<br/>
 
 </div>
 
