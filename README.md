@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Subhankar+Guha,+an+IT+undergrad+from+Kolkata+,+India.;Passionate+to+learn+about+technologies+and+explore+its+way+to+innovate!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/Sguha77)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Subhankar+Guha,+an+IT+undergrad+from+Kolkata,+India.;Passionate+to+learn+about+technologies+and+explore+its+way+to+innovate!;&center=true&color=ffffff&duration=7000&multiline=false&width=1000&font=Fira+Code+Bold)](https://github.com/Sguha77)
+
 
 <p align="right">
 	<a href="https://" target="_blank">
