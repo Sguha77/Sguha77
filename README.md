@@ -90,6 +90,7 @@
 <a href="https://github.com/Sguha77/" target="_blank">
 		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
 	</a>
+	<br>
 ---
 ## 🏆 GitHub Trophies
 <div align=center>
@@ -99,5 +100,17 @@
 </div>
 
 ---
-
+<h1 align="center">My Coding Platforms</h1>
+<div align="center">
+	<a href="https://leetcode.com/Sguha77/" target="_blank">
+		<img src="https://github.com/Sguha77/Sguha77/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
+	</a>
+	<span>&nbsp;</span>
+	<span>&nbsp;</span>
+	<a href="https://auth.geeksforgeeks.org/user/Sguha77" 	target="_blank">
+		<img src="https://github.com/Sguha77/Sguha77/blob/main/assets/gfg.png" alt="gfg-profile"/>
+	</a>
+</div>
+</br>
+---
 All Contents Owner @ Subhankar Guha
