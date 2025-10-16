@@ -148,6 +148,12 @@
 </div>
 </br>
 
+<div align="center">
+	<a href="https://leetcode.com/u/Sguha77/" target="_blank">
+		<img alt="LeetCode-Stats" src="https://leetcard.jacoblin.cool/Sguha77?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap" width="80%">
+	</a>
+</div>
+
 ---
 
 <p align="center">
