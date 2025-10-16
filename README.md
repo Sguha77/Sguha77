@@ -3,7 +3,7 @@
 
 <p align="right">
 	<a href="https://" target="_blank">
-		<img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+		<img src="https://komarev.com/ghpvc/?username=Sguha77&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 	</a>
 </p>
 
