@@ -96,13 +96,7 @@
   		<img src="https://github-readme-stats.vercel.app/api?username=Sguha77&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
 	</a>
 </div>
-**HTML & CSS** ▰▰▰▰▰▰▰▰▰▱ 82%  
-**C Programming** ▰▰▰▰▰▰▰▰▰▰ 95%  
-**C++** ▰▰▰▰▰▰▰▰▰▱ 85%  
-**JavaScript** ▰▰▰▰▰▰▰▰▱▱ 75%  
-**Python** ▰▰▰▰▰▰▰▰▰▱ 85%  
-**DSA** ▰▰▰▰▰▰▰▱▱▱ 70%  
-**Full Stack Development** ▰▰▰▰▰▰▱▱▱▱ 60%
+
 <div align="center">
 
 <div align="center">
@@ -126,6 +120,26 @@
 	</a>
 	<br>
 	
+<p><b>HTML & CSS</b></p>
+<progress value="82" max="100"></progress> 82%
+
+<p><b>C Programming</b></p>
+<progress value="95" max="100"></progress> 95%
+
+<p><b>C++</b></p>
+<progress value="85" max="100"></progress> 85%
+
+<p><b>JavaScript</b></p>
+<progress value="75" max="100"></progress> 75%
+
+<p><b>Python</b></p>
+<progress value="85" max="100"></progress> 85%
+
+<p><b>DSA</b></p>
+<progress value="70" max="100"></progress> 70%
+
+<p><b>Full Stack Development</b></p>
+<progress value="60" max="100"></progress> 60%
 ---
 
 ## 🏆 GitHub Trophies
