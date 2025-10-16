@@ -30,9 +30,9 @@
   <a href="https://github.com/Sguha77/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
          alt="GitHub" 
-         width="40" 
-         height="40" 
-         style="background:white; border-radius:50%; padding:15px; margin:10px;">
+         width="70" 
+         height="70" 
+         style="width: 70px; height: 70px; border-radius: 50%;">
   </a>
 </p>
 
