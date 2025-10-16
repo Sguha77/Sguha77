@@ -98,10 +98,6 @@
 </div>
 
 <div align="center">
-	
-![](https://github-readme-streak-stats.herokuapp.com)/?user=Sguha77&theme=dark&hide_border=false)<br/>
-
-</div>
 
 <div align="center">
 	<a href="https://github.com/Sguha77" target="_blank">
