@@ -19,7 +19,7 @@
 		 padding="40px"
          style="border-radius:50%; margin: 10px;">
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subhankar-07-guha/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
          alt="LinkedIn" 
