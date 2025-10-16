@@ -96,7 +96,13 @@
   		<img src="https://github-readme-stats.vercel.app/api?username=Sguha77&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
 	</a>
 </div>
-
+**HTML & CSS** ▰▰▰▰▰▰▰▰▰▱ 82%  
+**C Programming** ▰▰▰▰▰▰▰▰▰▰ 95%  
+**C++** ▰▰▰▰▰▰▰▰▰▱ 85%  
+**JavaScript** ▰▰▰▰▰▰▰▰▱▱ 75%  
+**Python** ▰▰▰▰▰▰▰▰▰▱ 85%  
+**DSA** ▰▰▰▰▰▰▰▱▱▱ 70%  
+**Full Stack Development** ▰▰▰▰▰▰▱▱▱▱ 60%
 <div align="center">
 
 <div align="center">
