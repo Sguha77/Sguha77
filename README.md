@@ -113,6 +113,14 @@
 	</a>
 </div>
 
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-82%25-orange)
+![C Programming](https://img.shields.io/badge/C%20Programming-95%25-brightgreen)
+![C++](https://img.shields.io/badge/C++-85%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
+![Python](https://img.shields.io/badge/Python-85%25-lightblue)
+![DSA](https://img.shields.io/badge/DSA-70%25-blueviolet)
+![Full%20Stack%20Development](https://img.shields.io/badge/Full%20Stack%20Development-60%25-gray)
+
 ---
 
 <a href="https://github.com/Sguha77/" target="_blank">
@@ -120,26 +128,6 @@
 	</a>
 	<br>
 	
-<p><b>HTML & CSS</b></p>
-<progress value="82" max="100"></progress> 82%
-
-<p><b>C Programming</b></p>
-<progress value="95" max="100"></progress> 95%
-
-<p><b>C++</b></p>
-<progress value="85" max="100"></progress> 85%
-
-<p><b>JavaScript</b></p>
-<progress value="75" max="100"></progress> 75%
-
-<p><b>Python</b></p>
-<progress value="85" max="100"></progress> 85%
-
-<p><b>DSA</b></p>
-<progress value="70" max="100"></progress> 70%
-
-<p><b>Full Stack Development</b></p>
-<progress value="60" max="100"></progress> 60%
 ---
 
 ## 🏆 GitHub Trophies
