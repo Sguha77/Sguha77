@@ -133,7 +133,7 @@
 ---
 <h1 align="center">My Coding Platforms</h1>
 <div align="center">
-	<a href="https://leetcode.com/Sguha77/" target="_blank">
+	<a href="https://leetcode.com/u/Sguha77/" target="_blank">
 		<img src="https://github.com/Sguha77/Sguha77/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
 	</a>
 	<span>&nbsp;</span>
