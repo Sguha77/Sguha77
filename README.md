@@ -32,7 +32,7 @@
          alt="GitHub" 
          width="70" 
          height="70" 
-         style="width: 70px; height: 70px; border-radius: 50%;">
+         style="background:⚪;width: 70px; height: 70px; border-radius: 50%;">
   </a>
 </p>
 
