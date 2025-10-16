@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Subhankar+Guha,+an+IT+undergrad+from+Kolkata+,+India.;Passionate+to+learn+about+technologies+and+explore+its+way+to+innovate!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/Sguha77)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subho_77_ind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhankar-07-guha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sguha1869@gmail.com) 
 
