@@ -10,12 +10,13 @@
 ---
 
 ## 🌐 My Social Links :
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/subho_77_ind/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
          alt="Instagram" 
          width="70" 
          height="70" 
+		 padding="40px"
          style="border-radius:50%; margin: 10px;">
   </a>
 
