@@ -37,7 +37,19 @@
 </p>
 
 
+## Know About Me 😉
 
+- 🐼 Learning ** Cyber Security, AI and Full Stack Development ** .
+
+- 🎓 I'm Currently Persuing my **Bachelors** in ** Information Technology (IT) ** .
+
+- ☁️ Exploring GoogleCloud as well ✨
+
+- 📫 Reach me at **contact.sguha1869@gmail.com**
+
+- 😎 Looking for [**My Portfolio**](https://) ! 
+
+---
 
 
 
