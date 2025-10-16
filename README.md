@@ -57,7 +57,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <div align="center">
-	<a href="https://" target="_blank">
+	<a href="https://github.com/Sguha77" target="_blank">
   		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sguha77&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="80%"/>
 	</a>
 </div>
@@ -67,7 +67,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-	<a href="https://" target="_blank">
+	<a href="https://github,com/Sguha77" target="_blank">
   		<img src="https://github-readme-stats.vercel.app/api?username=Sguha77&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
 	</a>
 </div>
@@ -78,7 +78,19 @@
 
 </div>
 
+<div align="center">
+	<a href="https://github.com/Sguha77" target="_blank">
+  		<img src="https://github-readme-streak-stats.herokuapp.com?user=Sguha77&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sguha77" width="80%"/>
+	</a>
+</div>
 
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sguha77&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/Sguha77/)
+
+<div align=center>
+	<a href="https://github.com/Sguha77" target="_blank">
+  		<img src="https://github-profile-trophy.vercel.app/?username=Sguha77&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+	</a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sguha77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
