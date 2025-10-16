@@ -63,6 +63,13 @@
 </div>
 
 # 📊 GitHub Stats:
+
+<div align="center">
+	<a href="https://" target="_blank">
+  		<img src="https://github-readme-stats.vercel.app/api?username=Sguha77&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
+	</a>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Sguha77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sguha77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sguha77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
