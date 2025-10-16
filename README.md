@@ -16,7 +16,19 @@
          alt="Instagram" 
          width="70" 
          height="70" 
-         style="border-radius:50%; margin: 10px;">
+         style="
+       display: inline-flex;
+       justify-content: center;
+       align-items: center;
+       width: 70px;
+       height: 70px;
+       border-radius: 50%;
+       border: 3px solid white;
+       box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+       transition: all 0.3s ease;
+       background: white;
+     "
+		">
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subhankar-07-guha/" target="_blank">
