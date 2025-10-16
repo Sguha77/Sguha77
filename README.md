@@ -155,6 +155,9 @@
 <p align="center">
  <img src="https://github.com/Sguha77/Sguha77/blob/main/assets/Cool.gif">
 </p>
+<p align="center">
+ <img src="https://github.com/Sguha77/Sguha77/blob/main/assets/desk.png.zip">
+</p>
 
 ---
 
