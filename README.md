@@ -41,7 +41,7 @@
 
 - 🐼 Learning ** Cyber Security, AI and Full Stack Development ** .
 
-- 🎓 I'm Currently Persuing my **Bachelors** in ** Information Technology (IT) ** .
+- 🎓 I'm Currently Pursuing my **Bachelors** in ** Information Technology (IT) ** .
 
 - ☁️ Exploring GoogleCloud as well ✨
 
