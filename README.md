@@ -16,7 +16,6 @@
          alt="Instagram" 
          width="70" 
          height="70" 
-		 padding="40px"
          style="border-radius:50%; margin: 10px;">
   </a>
 &nbsp;&nbsp;&nbsp;
@@ -27,7 +26,7 @@
          height="70" 
          style="border-radius:50%; margin: 10px;">
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sguha77/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
          alt="GitHub" 
@@ -35,6 +34,7 @@
          height="70" 
          style="background:ffffff; border-radius:50%; padding:15px; margin:10px;">
   </a>
+	&nbsp;&nbsp;&nbsp;
 </p>
 
 
