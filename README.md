@@ -28,7 +28,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sguha77/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+    <img src="https://skillicons.dev/icons?i=github "
          alt="GitHub" 
          width="70" 
          height="70" 
