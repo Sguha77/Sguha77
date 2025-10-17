@@ -1,2 +1,4 @@
-README.md
-assets
+*.o
+*.log
+README.md/
+assets/
