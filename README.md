@@ -47,7 +47,7 @@
 
 - 📫 Reach me at **contact.sguha1869@gmail.com**
 
-- 😎 Looking for [**My Portfolio - Click Here !!! ]([https://subhankar-guha-portfolio.netlify.app/]) !
+- 😎 Looking for [**My Portfolio - Click Here !!! ]([https://subhankar-guha-portfolio.netlify.app/)
 
 ---
 
